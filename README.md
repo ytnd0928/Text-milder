@@ -1,2 +1,4 @@
 # Text-milder
-Created with CodeSandbox
+
+圧力のあるメッセージをふんわりと柔らかくするChromeの拡張機能
+Chrome Extensions APIを利用し、就活でお祈りメールや、嫌な奴からのメールやメッセージを可能な限り優しく、誰も傷つかないようなChromeの拡張機能を作成しました。
