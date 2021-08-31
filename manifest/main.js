@@ -1,4 +1,4 @@
-requestIdleCallback(() => {
+requestIdleCallback(() => { 
   var i = 0
   document.body.innerHTML = document.body.innerHTML.replaceAll("。", () => (i++, i % 2 ? "&#x1f970;" : "&#x1f60d"))
   var j = 0
