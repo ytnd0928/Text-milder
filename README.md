@@ -20,10 +20,10 @@ JavaScriptでChromeのHTML要素を取得し　、書き換えるという処理
 そして、document.body.innerHTML = document.body.innerHTML.replaceAll('')で実際のHTML要素をJavaScriptで取得し、書き換えています。
 
 拡張前の画像↓
-![拡張前の画像](../manifest/images/before.jpg)
+![拡張前の画像](./manifest/images/before.jpg)
 
 拡張後の画像　↓
-![拡張後の画像](../manifest/images/after.jpg)
+![拡張後の画像](./manifest/images/after.jpg)
 
 
 
