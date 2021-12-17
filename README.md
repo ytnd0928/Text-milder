@@ -14,7 +14,7 @@
 
 使用技術
 ------------------------------------------------------------------------------------------------------------------------
-JavaScriptでChromeのHTML要素を取得し　、書き換えるという処理を書きました。
+JavaScriptでChromeのHTML要素を取得して書き換えるという処理を書きました。
 
 まず、requestIdleCallback関数を使い優先度の低い処理でもメインで実行させ、すべての処理を同時に行っているように見せています。
 そして、document.body.innerHTML = document.body.innerHTML.replaceAll('')で実際のHTML要素をJavaScriptで取得し、書き換えています。
